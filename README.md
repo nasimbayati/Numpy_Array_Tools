@@ -20,7 +20,7 @@ pip install numpy
 
 ## Usage
 
-##Run Demo Mode
+## Run Demo Mode
 
 ```bash
 python numpy_array_tools.py
@@ -78,4 +78,5 @@ Example:
 ```bash
 [[46 75 71]
  [29 28 65]]
+
  ```
